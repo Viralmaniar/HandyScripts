@@ -4,6 +4,14 @@ HandyScripts for Offensive & Defensive Security
 
 Welcome to **HandyScripts**, a curated collection of handy, practical scripts written in **Bash**, **PowerShell**, and other scripting languages. This project is aimed at cybersecurity professionals, red teamers, blue teamers and hobbyists who want quick customisable tools for automating common offensive and defensive tasks.
 
+Script | Language | Purpose | Type
+quickrecon.sh | Bash | Host recon | Offensive
+persist.ps1 | PowerShell | Registry backdoor | Offensive
+pingdyping.sh | Bash | C2 check-in | Offensive
+FailedLoginDetector.ps1 | PowerShell | Log watcher | Defensive
+exfil_watch.sh | Bash | Detect data exfil | Defensive
+MalWatcher.ps1 | PowerShell | Drop file watcher | Defensive
+
 ## Project Goals
 
 - Provide reusable scripts for common security operations.
