@@ -13,6 +13,11 @@ Welcome to **HandyScripts**, a curated collection of handy, practical scripts wr
 | exfil_watch.sh | Bash | Detect data exfil | Defensive |
 | MalWatcher.ps1 | PowerShell | Drop file watcher | Defensive |
 
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
 
 
 ## Project Goals
